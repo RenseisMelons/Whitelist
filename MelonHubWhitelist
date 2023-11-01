@@ -4,7 +4,7 @@ local hum = chr.Humanoid;
 local mov = {};
 local mov2 = {};
 
---sub to me_ozoneYT
+-- rensei
 
 for i,v in next, game:GetService("Players").LocalPlayer.Character:GetDescendants() do
 if v:IsA("BasePart") and v.Name ~="HumanoidRootPart" then 
